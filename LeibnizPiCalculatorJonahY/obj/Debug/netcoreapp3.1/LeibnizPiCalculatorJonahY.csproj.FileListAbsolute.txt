@@ -1,0 +1,13 @@
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\bin\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.exe
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\bin\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.deps.json
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\bin\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.runtimeconfig.json
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\bin\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.runtimeconfig.dev.json
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\bin\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.dll
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\bin\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.pdb
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.csprojAssemblyReference.cache
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.AssemblyInfoInputs.cache
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.AssemblyInfo.cs
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.dll
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.pdb
+C:\Users\Jonah\source\repos\LeibnizPiCalculatorJonahY\LeibnizPiCalculatorJonahY\obj\Debug\netcoreapp3.1\LeibnizPiCalculatorJonahY.genruntimeconfig.cache
